@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@vue/compiler-sfc": ">=3.0.9",
+    "ant-design-vue": "^2.1.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
